@@ -1,8 +1,4 @@
-
 ---
-
-### **SECURITY.md**
-
 # **Your Trust & Security is Our Sacred Duty**
 ### **The Gold Standard for Safeguarding Europe's Ecclesiastical Community**
 
