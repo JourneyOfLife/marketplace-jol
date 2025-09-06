@@ -6,13 +6,14 @@
 [![Django Version](https://img.shields.io/badge/Django-5.0-green)](https://www.djangoproject.com/)
 [![Python Version](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![AGPLv3 License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Multi-Language](https://img.shields.io/badge/Languages-30+-lightgrey)](https://github.com/your-organization/marketplace-jol)
 
 ### **Connecting Faith Communities with Trusted Sellers Across Europe**
 
 **JOL** is the premier digital marketplace dedicated to serving the unique needs of churches, parishes, and bereavement services across all 27 EU nations and beyond. We simplify the process of sourcing sacred utensils, vestments, icons, and services, all within a platform built on trust, tradition, and technology.
 
-**🌍 Browse and transact in your native language,** including Romanian, Russian, Arabic, and all official EU languages.
+**🌍 Browse and transact in your native language,** including Ukrainian, Russian, Arabic, and all official EU languages.
 
 ---
 
@@ -113,8 +114,8 @@ graph TB
 
 The JOL platform is currently in active development. **We are inviting pioneering churches and sellers in Lithuania for our initial launch.**
 
-*   **Are you a seller interested in early access?** Please contact us at `journey4oflife+4sellers@gmail.comu` to discuss verification and listing.
-*   **Are you a church or diocese administrator?** Email `journey4oflife+4churches@gmail.com` to be notified upon launch and to provide your specific needs.
+*   **Are you a seller interested in early access?** Please contact us at journey4oflife+4sellers@gmail.comu to discuss verification and listing.
+*   **Are you a church or diocese administrator?** Email journey4oflife+4churches@gmail.com to be notified upon launch and to provide your specific needs.
 
 ### **For Developers (Contributing to the Platform)**
 
@@ -141,7 +142,7 @@ We welcome skilled developers who share our mission to contribute to this open-s
 
 *   **📜 License:** This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 *   **🔒 Security:** Please report any security vulnerabilities privately via our [Security Policy](SECURITY.md).
-*   **🙋 Support:** For general questions and support, please open a [GitHub Discussion](https://github.com/your-organization/marketplace-jol/discussions).
+*   **🙋 Support:** For general questions and support, please open a [GitHub Discussion](https://github.com/JourneyOfLife/marketplace-jol/discussions).
 
 ---
 
