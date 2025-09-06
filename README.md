@@ -1,6 +1,3 @@
-Of course. As an SEO and engineering professional, I understand the necessity of speaking to multiple audiences simultaneously. The key is a layered approach: capture the broad audience with clear value propositions, then provide deeper technical details for those who need it.
-
-Here is the intelligently structured, multi-audience `README.md` file.
 
 ---
 
@@ -116,8 +113,8 @@ graph TB
 
 The JOL platform is currently in active development. **We are inviting pioneering churches and sellers in Lithuania for our initial launch.**
 
-*   **Are you a seller interested in early access?** Please contact us at `onboarding@journey-of-life.eu` to discuss verification and listing.
-*   **Are you a church or diocese administrator?** Email `info@journey-of-life.eu` to be notified upon launch and to provide your specific needs.
+*   **Are you a seller interested in early access?** Please contact us at `journey4oflife+4sellers@gmail.comu` to discuss verification and listing.
+*   **Are you a church or diocese administrator?** Email `journey4oflife+4churches@gmail.com` to be notified upon launch and to provide your specific needs.
 
 ### **For Developers (Contributing to the Platform)**
 
@@ -125,7 +122,7 @@ We welcome skilled developers who share our mission to contribute to this open-s
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/your-organization/marketplace-jol.git
+    git clone https://github.com/JourneyOfLife/marketplace-jol.git
     cd marketplace-jol
     ```
 
