@@ -72,7 +72,7 @@ We are committed to working with you to understand and resolve the issue promptl
 
 ### **🛡️ A Final Word of Assurance**
 
-Whether you are a Catholic diocese in Italy, a Protestant community in Germany, an Orthodox parish in Romania, or a memorial stone artisan in Lithuania, you can engage on the JOL Marketplace with peace of mind. We have built this platform to be a **safe, respectful, and secure digital home** for the vital work you do.
+Whether you are a Catholic diocese in Italy, a Protestant community in Germany, an Orthodox parish in Greece, or a memorial stone artisan in Paris, you can engage on the JOL Marketplace with peace of mind. We have built this platform to be a **safe, respectful, and secure digital home** for the vital work you do.
 
 **Thank you for your trust.**
 
