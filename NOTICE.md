@@ -13,7 +13,7 @@ Whether you are a parish priest, a diocese administrator, a funeral director, or
 **Our Promise to You:**
 
 *   **Trust & Transparency:** The JOL platform is built on open-source technology. This means its core software is open for review by anyone, ensuring there are no hidden functions and that we operate with the highest integrity.
-*   **A Unified European Platform:** We are dedicated to serving all Christian traditions across Europe—Catholic, Protestant, Orthodox (including Romanian and Russian Orthodox Churches), and all communities of faith. Our mission is to provide a single, trusted, and unparalleled marketplace for your needs.
+*   **A Unified European Platform:** We are dedicated to serving all Christian traditions across Europe—Catholic, Protestant, Orthodox (including Greece and Russian Orthodox Churches), and all communities of faith. Our mission is to provide a single, trusted, and unparalleled marketplace for your needs.
 *   **Your Contributions Are Valued:** If you or your organization contribute ideas or code to improve JOL, you will be treated with fairness and respect, as outlined in our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 > **In Simple Terms:** You can use the JOL Marketplace with confidence, knowing it is built and maintained to the highest standards, for the sole purpose of serving your community.
@@ -43,7 +43,7 @@ This is a non-exhaustive list. For a full list of dependencies and their respect
 
 ### 2.2. Copyright Notice
 
-*   **Copyright (C) 2025 [Your Organization Name or JOL Project Contributors].**
+*   **Copyright (C) 2025 [[Journey Of Life]](https://journey-of-life.site).**
 *   This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 *   This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
